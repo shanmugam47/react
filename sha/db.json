@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "name": "Shanmugam",
+      "id": 1,
+      "username": "MN",
+      "email": "mnshanmugam143@gmail.com",
+      "phone": "08688837649",
+      "website": "www.MNS.com"
+    },
+    {
+      "name": "Chandra",
+      "username": "D",
+      "email": "chandra@gmail.com",
+      "phone": "7689564567",
+      "website": "www.chandra.in",
+      "id": 2
+    },
+    {
+      "name": "Siva",
+      "username": "k",
+      "email": "siva@gmail.com",
+      "phone": "6545678987",
+      "website": "www.siva.co.in",
+      "id": 3
+    },
+    {
+      "name": "Dhivaker",
+      "username": "KK",
+      "email": "dhiva@gmail.com",
+      "phone": "9897654345",
+      "website": "www.dhiva.in",
+      "id": 4
+    },
+    {
+      "name": "Shanker",
+      "username": "PK",
+      "email": "shanker@gmail.com",
+      "phone": "6300986789",
+      "website": "www.shan.in",
+      "id": 5
+    },
+    {
+      "name": "Reva",
+      "username": "U",
+      "email": "Revathi@gmail.com",
+      "phone": "8976543278",
+      "website": "www.Reva.com",
+      "id": 6
+    },
+    {
+      "name": "purushoth",
+      "username": "MN",
+      "email": "purush@gmail.com",
+      "phone": "8765347802",
+      "website": "www.purush.in",
+      "id": 7
+    },
+    {
+      "name": "Sam ",
+      "username": "S",
+      "email": "sam@gmail.com",
+      "phone": "7097493954",
+      "website": "www.sam.com",
+      "id": 8
+    },
+    {
+      "name": "santhosh",
+      "username": "K",
+      "email": "santhosh@gmail.com",
+      "phone": "6578904534www",
+      "website": "www.santhosh.in",
+      "id": 9
+    },
+    {
+      "name": "Ramana",
+      "username": "K",
+      "email": "Ramana@gmail.com",
+      "phone": "9876459876",
+      "website": "www.Ramana.com",
+      "id": 10
+    }
+  ]
+}
